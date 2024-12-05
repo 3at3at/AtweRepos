@@ -9,7 +9,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- main
+- master
 
 pool:
   name: 'Atwepool'
